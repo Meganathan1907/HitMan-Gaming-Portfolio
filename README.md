@@ -1,4 +1,4 @@
-# HitMan-Gaming-Portfolio---Portfolio
+# HitMan-Gaming-Portfolio
 
 A premium developer portfolio built with **Next.js**, **Tailwind CSS**, and **Framer Motion**.  
 Designed for modern UI/UX with smooth animations and high performance.
