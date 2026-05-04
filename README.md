@@ -1,4 +1,4 @@
-# ---Portfolio
+# HitMan-Gaming-Portfolio---Portfolio
 
 A premium developer portfolio built with **Next.js**, **Tailwind CSS**, and **Framer Motion**.  
 Designed for modern UI/UX with smooth animations and high performance.
@@ -33,7 +33,7 @@ Designed for modern UI/UX with smooth animations and high performance.
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/uthaya567/Leo-Das---Portfolio.git
-cd Leo-Das---Portfolio
+git clone https://github.com/Meganathan1907/HitMan-Gaming-Portfolio.git
+cd HitMan-Gaming-Portfolio
 npm install
 npm run dev
